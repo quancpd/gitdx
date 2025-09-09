@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>KeyQualifier__c</fullName>
+        <externalId>false</externalId>
+        <isFilteringDisabled>false</isFilteringDisabled>
+        <isNameField>false</isNameField>
+        <isSortingDisabled>false</isSortingDisabled>
+        <label>Key Qualifier</label>
+        <length>60</length>
+        <mktDataLakeFieldAttributes>
+            <definitionCreationType>System</definitionCreationType>
+            <externalName>KeyQualifier</externalName>
+            <isEventDate>false</isEventDate>
+            <isInternalOrganization>false</isInternalOrganization>
+            <isRecordModified>false</isRecordModified>
+            <usageTag>NONE</usageTag>
+        </mktDataLakeFieldAttributes>
+        <required>false</required>
+        <type>Text</type>
+    </fields>
+    <fields>
+        <fullName>LastModifiedBy__c</fullName>
+        <externalId>false</externalId>
+        <isFilteringDisabled>false</isFilteringDisabled>
+        <isNameField>false</isNameField>
+        <isSortingDisabled>false</isSortingDisabled>
+        <label>Last Modified By</label>
+        <length>60</length>
+        <mktDataLakeFieldAttributes>
+            <definitionCreationType>System</definitionCreationType>
+            <externalName>LastModifiedBy</externalName>
+            <isEventDate>false</isEventDate>
+            <isInternalOrganization>false</isInternalOrganization>
+            <isRecordModified>false</isRecordModified>
+            <usageTag>NONE</usageTag>
+        </mktDataLakeFieldAttributes>
+        <required>false</required>
+        <type>Text</type>
+    </fields>
+    <fields>
+        <fullName>LastModifiedDate__c</fullName>
+        <externalId>false</externalId>
+        <isFilteringDisabled>false</isFilteringDisabled>
+        <isNameField>false</isNameField>
+        <isSortingDisabled>false</isSortingDisabled>
+        <label>Last Modified Date</label>
+        <mktDataLakeFieldAttributes>
+            <definitionCreationType>System</definitionCreationType>
+            <externalName>LastModifiedDate</externalName>
+            <isEventDate>false</isEventDate>
+            <isInternalOrganization>false</isInternalOrganization>
+            <isRecordModified>false</isRecordModified>
+            <usageTag>NONE</usageTag>
+        </mktDataLakeFieldAttributes>
+        <required>false</required>
+        <type>DateTime</type>
+    </fields>
+    <mktDataLakeAttributes>
+        <creationType>System</creationType>
+        <isEnabled>true</isEnabled>
+        <objectCategory>Salesforce_SFDCReferenceModel_0_93.Profile</objectCategory>
+    </mktDataLakeAttributes>
+</CustomObject>
